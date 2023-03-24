@@ -1,0 +1,11 @@
+# Standard ignores
+node_modules/
+*.log
+*.swp
+*.tmp
+.DS_Store
+.svn
+
+# Directories named "obsolete"
+obsolete/
+
